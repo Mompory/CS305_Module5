@@ -1,2 +1,2 @@
-#Contributers to EcoTracker;
+# Contributor's to EcoTracker Project
 
