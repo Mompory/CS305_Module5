@@ -10,4 +10,5 @@ EcoTracker is built with the following technologies:
 - MongoDB for the database.
 - Docker for containerization and easy deployment.
 
-Data by eit27
+Data sourced by eit27 (Evelyn Torres)
+from the National Ecosystem Organization
